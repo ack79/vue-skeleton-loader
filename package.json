@@ -1,5 +1,5 @@
 {
-  "name": "vue-skeleton-loader",
+  "name": "vue-skeleton-loader-modern",
   "version": "0.1.0",
   "description": "A modern and customizable skeleton loading component for Vue.js. Compatible with both Vue 2 and Vue 3.",
   "main": "dist/vue-skeleton-loader.umd.js",
